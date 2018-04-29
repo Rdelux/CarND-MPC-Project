@@ -132,4 +132,3 @@ Final parameter set:
 | Throttle Change Weighting Factor      |    acc_change_weight    | 4000    |
 | Performance: Stable |   Top Speed: 106 Km/h |
 
-Note: I need to specify the library location for ipopt in order the the program to compile.  This was done in the CMakeLists.txt file, which is included in this repo
